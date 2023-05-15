@@ -1,0 +1,4 @@
+KoolCenter Alist Changelog for HND platform
+===========================================
+1.0.1
+   - 支持PS、Switch、Xbox等主机加速

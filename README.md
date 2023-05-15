@@ -1,4 +1,4 @@
-# Alist文件列表
+# qyacc文件列表
 
 ## 是什么？
 `支持PS、Switch、Xbox等主机加速`

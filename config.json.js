@@ -5,7 +5,7 @@
     "link": "https://github.com/qiyouacc/qy-koolshare",
     "md5": "d88d5c6b28edb836d501e06c8d8fc006", 
     "module": "qyacc",
-    "tags": "主机加速",
+    "tags": "网络",
     "title": "奇游联机宝插件",
     "version": "1.0.1"
 }
